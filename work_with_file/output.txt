@@ -1,0 +1,4 @@
+1	10.50	True
+2	12.10	False
+3	NULL	True
+4	15.00	False
