@@ -246,7 +246,7 @@ def plot_subject_means(df):
 
 
 def main():
-    filepath = "D:\data_python/student-scores.csv"
+    filepath = "D:\python_data/group_project/student-scores.csv"
     df = load_and_clean_data(filepath)
     group_students(df)
     df = classify_students(df)
